@@ -270,6 +270,7 @@ Screenshots of All Methods Used.
 ![2H Testing iv GET all products.png](src/main/resources/static/images/2H%20Testing%20iv%20GET%20all%20products.png)
 2H Testing v DELETE CONSOLE
 ![2H Testing v DELETE CONSOLE.png](src/main/resources/static/images/2H%20Testing%20v%20DELETE%20CONSOLE.png)
+
 2H Testing v DELETE
 ![2H Testing v DELETE.png](src/main/resources/static/images/2H%20Testing%20v%20DELETE.png)
 2H Testing vi GET error test for non existing product
