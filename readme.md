@@ -210,37 +210,71 @@ This approach is one of the key advantages of using **Spring Data JPA**.
 ---
 
 Screenshots of All Methods Used.
+2A First postman
 ![2A First postman.png](src/main/resources/static/images/2A%20First%20postman.png)
+2B Swagger JSON
 ![2B Swagger JSON.png](src/main/resources/static/images/2B%20Swagger%20JSON.png)
+2B Swagger UI second
 ![2B Swagger UI second.png](src/main/resources/static/images/2B%20Swagger%20UI%20second.png)
+2B Swagger UI
 ![2B Swagger UI.png](src/main/resources/static/images/2B%20Swagger%20UI.png)
+2C Another Endpoint in normal browser
 ![2C Another Endpoint in normal browser.png](src/main/resources/static/images/2C%20Another%20Endpoint%20in%20normal%20browser.png)
+2C Another Endpoint in Postman
 ![2C Another Endpoint in Postman.png](src/main/resources/static/images/2C%20Another%20Endpoint%20in%20Postman.png)
+2C Another Endpoint in Swagger
 ![2C Another Endpoint in Swagger.png](src/main/resources/static/images/2C%20Another%20Endpoint%20in%20Swagger.png)
+2E Postman Exception handling
 ![2E Postman Exception handling.png](src/main/resources/static/images/2E%20Postman%20Exception%20handling.png)
+2E Postman GET after PUT
 ![2E Postman GET after PUT.png](src/main/resources/static/images/2E%20Postman%20GET%20after%20PUT.png)
+2E Postman POST to create new product
 ![2E Postman POST to create new product.png](src/main/resources/static/images/2E%20Postman%20POST%20to%20create%20new%20product.png)
+2E Postman PUT
 ![2E Postman PUT.png](src/main/resources/static/images/2E%20Postman%20PUT.png)
+2E Postman to get new product created after POST
 ![2E Postman to get new product created after POST.png](src/main/resources/static/images/2E%20Postman%20to%20get%20new%20product%20created%20after%20POST.png)
+2E Swagger Exception Handling
 ![2E Swagger Exception Handling.png](src/main/resources/static/images/2E%20Swagger%20Exception%20Handling.png)
+2E Swagger GET after PUT
 ![2E Swagger GET after PUT.png](src/main/resources/static/images/2E%20Swagger%20GET%20after%20PUT.png)
+2E Swagger GET response after new product created
 ![2E Swagger GET response after new product created.png](src/main/resources/static/images/2E%20Swagger%20GET%20response%20after%20new%20product%20created.png)
+2E Swagger POST to create new product
 ![2E Swagger POST to create new product.png](src/main/resources/static/images/2E%20Swagger%20POST%20to%20create%20new%20product.png)
+2E Swagger PUT
 ![2E Swagger PUT.png](src/main/resources/static/images/2E%20Swagger%20PUT.png)
+2F Creating Product
 ![2F Creating Product .png](src/main/resources/static/images/2F%20Creating%20Product%20.png)
+2F Deleting existing product
 ![2F Deleting existing product.png](src/main/resources/static/images/2F%20Deleting%20existing%20product.png)
+2F Deleting non existing product
 ![2F Deleting non existing product.png](src/main/resources/static/images/2F%20Deleting%20non%20existing%20product.png)
+2G Adding Database i
 ![2G Adding Database i.png](src/main/resources/static/images/2G%20Adding%20Database%20i.png)
+2G Adding Database ii
 ![2G Adding Database ii.png](src/main/resources/static/images/2G%20Adding%20Database%20ii.png)
+2G Adding Database iii BIGINT
 ![2G Adding Database iii BIGINT.png](src/main/resources/static/images/2G%20Adding%20Database%20iii%20BIGINT.png)
+2H Testing i POST Console
 ![2H Testing i POST Console.png](src/main/resources/static/images/2H%20Testing%20i%20POST%20Console.png)
+2H Testing i POST
 ![2H Testing i POST.png](src/main/resources/static/images/2H%20Testing%20i%20POST.png)
+2H Testing ii GET
 ![2H Testing ii GET.png](src/main/resources/static/images/2H%20Testing%20ii%20GET.png)
+2H Testing iii PUT CONSOLE
 ![2H Testing iii PUT CONSOLE.png](src/main/resources/static/images/2H%20Testing%20iii%20PUT%20CONSOLE.png)
+2H Testing iii PUT
 ![2H Testing iii PUT.png](src/main/resources/static/images/2H%20Testing%20iii%20PUT.png)
+2H Testing iv GET all products
 ![2H Testing iv GET all products.png](src/main/resources/static/images/2H%20Testing%20iv%20GET%20all%20products.png)
-![2H Testing v DELETE COSOLE.png](src/main/resources/static/images/2H%20Testing%20v%20DELETE%20COSOLE.png)
+2H Testing v DELETE CONSOLE
+![2H Testing v DELETE CONSOLE.png](src/main/resources/static/images/2H%20Testing%20v%20DELETE%20CONSOLE.png)
+2H Testing v DELETE
 ![2H Testing v DELETE.png](src/main/resources/static/images/2H%20Testing%20v%20DELETE.png)
+2H Testing vi GET error test for non existing product
 ![2H Testing vi GET error test for non existing product.png](src/main/resources/static/images/2H%20Testing%20vi%20GET%20error%20test%20for%20non%20existing%20product.png)
+2H Testing vii DELETE error test for non existing product CONSOLE
 ![2H Testing vii DELETE error test for non existing product CONSOLE.png](src/main/resources/static/images/2H%20Testing%20vii%20DELETE%20error%20test%20for%20non%20existing%20product%20CONSOLE.png)
+2H Testing vii DELETE error test for non existing product
 ![2H Testing vii DELETE error test for non existing product.png](src/main/resources/static/images/2H%20Testing%20vii%20DELETE%20error%20test%20for%20non%20existing%20product.png)
